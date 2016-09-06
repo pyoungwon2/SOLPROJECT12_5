@@ -1,7 +1,7 @@
 package com.example.soldesk_paul.projectsol12_5;
 
 /*
-* 솔데스크 프로젝트 5팀
+* 솔데스크 프로젝트 5팀...
 * */
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
